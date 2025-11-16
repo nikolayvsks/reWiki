@@ -18,6 +18,7 @@
 ## ГАЙДЫ <a href="#guides" id="guides"></a>
 
 * [Как начать игру на сервере](guides/start.md)
+* [Использование Litematica](guides/litematica.md)
 * [Постройка ферм](guides/farms.md)
 * [CoreProtect](guides/coreprotect.md)
 
