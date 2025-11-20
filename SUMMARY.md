@@ -24,12 +24,13 @@
 
 ## Игровой контент <a href="#gameplay" id="gameplay"></a>
 
-* [Детективный дроп v4.1](gameplay/new.md)
+* [Артефактный дроп v4.2](gameplay/new.md)
 * [Текстовый и Голосовой чат](gameplay/chat.md)
 * [Зачарования](gameplay/enchants.md)
 * [Напитки](gameplay/drinks/README.md)
   * [Список напитков](gameplay/drinks/list.md)
 * [Детективная лупа](gameplay/inspect.md)
+* [Куколки Пушеров](gameplay/pushers.md)
 * [Другое](gameplay/other.md)
 * [Конфигурация сервера](gameplay/config.md)
 * [Ключи](gameplay/keys.md)
