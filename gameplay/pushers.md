@@ -51,4 +51,6 @@ layout:
 
 <div><figure><img src="../.gitbook/assets/stepan.png" alt=""><figcaption><p><code>Stepan</code></p></figcaption></figure> <figure><img src="../.gitbook/assets/komkovaaa.png" alt=""><figcaption><p><code>KOMKOVaaa</code></p></figcaption></figure> <figure><img src="../.gitbook/assets/thecrazyded.png" alt=""><figcaption><p><code>TheCrazyDed</code></p></figcaption></figure> <figure><img src="../.gitbook/assets/vadimak10.png" alt=""><figcaption><p><code>vadimak10</code></p></figcaption></figure></div>
 
-Список куколок актуален на 21-е ноября (будет обновляться).
+<div><figure><img src="../.gitbook/assets/_1pronuya.png" alt=""><figcaption><p><code>Pronuya</code></p></figcaption></figure> <figure><img src="../.gitbook/assets/_1renjoke_.png" alt=""><figcaption><p><code>renjoke_</code></p></figcaption></figure> <figure><img src="../.gitbook/assets/_1gardonit.png" alt=""><figcaption><p><code>Gardonit</code></p></figcaption></figure> <figure><img src="../.gitbook/assets/_1laymtea.png" alt=""><figcaption><p><code>LaymTea</code></p></figcaption></figure></div>
+
+Список куколок актуален на 27-е ноября (будет обновляться).
